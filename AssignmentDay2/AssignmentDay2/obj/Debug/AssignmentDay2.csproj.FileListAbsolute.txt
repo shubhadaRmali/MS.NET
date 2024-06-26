@@ -1,0 +1,7 @@
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\AssignmentDay2\bin\Debug\AssignmentDay2.exe.config
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\AssignmentDay2\bin\Debug\AssignmentDay2.exe
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\AssignmentDay2\bin\Debug\AssignmentDay2.pdb
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\AssignmentDay2\obj\Debug\AssignmentDay2.csproj.AssemblyReference.cache
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\AssignmentDay2\obj\Debug\AssignmentDay2.csproj.CoreCompileInputs.cache
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\AssignmentDay2\obj\Debug\AssignmentDay2.exe
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\AssignmentDay2\obj\Debug\AssignmentDay2.pdb

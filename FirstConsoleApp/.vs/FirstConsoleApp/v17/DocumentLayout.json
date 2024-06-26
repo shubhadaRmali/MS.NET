@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Group009\\Desktop\\MS.net\\FirstConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84E79042-8C00-4F4D-A5D5-C704D3AD0198}|Assignment1\\Assignment1.csproj|c:\\users\\group009\\desktop\\ms.net\\firstconsoleapp\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84E79042-8C00-4F4D-A5D5-C704D3AD0198}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEB824B-F96B-4CE8-A848-7841FD5306CF}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\users\\group009\\desktop\\ms.net\\firstconsoleapp\\firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEB824B-F96B-4CE8-A848-7841FD5306CF}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group009\\Desktop\\MS.net\\FirstConsoleApp\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Program.cs",
+              "ToolTip": "C:\\Users\\Group009\\Desktop\\MS.net\\FirstConsoleApp\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Assignment1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:24:07.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group009\\Desktop\\MS.net\\FirstConsoleApp\\FirstConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Group009\\Desktop\\MS.net\\FirstConsoleApp\\FirstConsoleApp\\Program.cs",
+              "RelativeToolTip": "FirstConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:22:05.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

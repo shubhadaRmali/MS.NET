@@ -1,0 +1,7 @@
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\1DArray\obj\Debug\1DArray.csproj.AssemblyReference.cache
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\1DArray\obj\Debug\1DArray.csproj.CoreCompileInputs.cache
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\1DArray\bin\Debug\1DArray.exe.config
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\1DArray\bin\Debug\1DArray.exe
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\1DArray\bin\Debug\1DArray.pdb
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\1DArray\obj\Debug\1DArray.exe
+C:\Users\Group009\Desktop\MS.net\AssignmentDay2\1DArray\obj\Debug\1DArray.pdb

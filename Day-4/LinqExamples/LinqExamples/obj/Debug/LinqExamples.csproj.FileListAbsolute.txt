@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\LinqExamples\LinqExamples\bin\Debug\LinqExamples.exe.config
+C:\DotNet-Jun-2024\LinqExamples\LinqExamples\bin\Debug\LinqExamples.exe
+C:\DotNet-Jun-2024\LinqExamples\LinqExamples\bin\Debug\LinqExamples.pdb
+C:\DotNet-Jun-2024\LinqExamples\LinqExamples\obj\Debug\LinqExamples.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\LinqExamples\LinqExamples\obj\Debug\LinqExamples.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\LinqExamples\LinqExamples\obj\Debug\LinqExamples.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\LinqExamples\LinqExamples\obj\Debug\LinqExamples.exe
+C:\DotNet-Jun-2024\LinqExamples\LinqExamples\obj\Debug\LinqExamples.pdb

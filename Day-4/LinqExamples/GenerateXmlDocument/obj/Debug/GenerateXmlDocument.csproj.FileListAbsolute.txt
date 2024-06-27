@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\LinqExamples\GenerateXmlDocument\bin\Debug\GenerateXmlDocument.exe.config
+C:\DotNet-Jun-2024\LinqExamples\GenerateXmlDocument\bin\Debug\GenerateXmlDocument.exe
+C:\DotNet-Jun-2024\LinqExamples\GenerateXmlDocument\bin\Debug\GenerateXmlDocument.pdb
+C:\DotNet-Jun-2024\LinqExamples\GenerateXmlDocument\obj\Debug\GenerateXmlDocument.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\LinqExamples\GenerateXmlDocument\obj\Debug\GenerateXmlDocument.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\LinqExamples\GenerateXmlDocument\obj\Debug\GenerateXmlDocument.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\LinqExamples\GenerateXmlDocument\obj\Debug\GenerateXmlDocument.exe
+C:\DotNet-Jun-2024\LinqExamples\GenerateXmlDocument\obj\Debug\GenerateXmlDocument.pdb

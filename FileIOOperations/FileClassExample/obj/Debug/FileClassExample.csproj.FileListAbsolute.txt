@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\FileIOOperations\FileClassExample\bin\Debug\FileClassExample.exe.config
+C:\DotNet-Jun-2024\FileIOOperations\FileClassExample\bin\Debug\FileClassExample.exe
+C:\DotNet-Jun-2024\FileIOOperations\FileClassExample\bin\Debug\FileClassExample.pdb
+C:\DotNet-Jun-2024\FileIOOperations\FileClassExample\obj\Debug\FileClassExample.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\FileIOOperations\FileClassExample\obj\Debug\FileClassExample.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\FileIOOperations\FileClassExample\obj\Debug\FileClassExample.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\FileIOOperations\FileClassExample\obj\Debug\FileClassExample.exe
+C:\DotNet-Jun-2024\FileIOOperations\FileClassExample\obj\Debug\FileClassExample.pdb

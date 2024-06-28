@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\FileIOOperations\BinarySerializationExample\bin\Debug\BinarySerializationExample.exe.config
+C:\DotNet-Jun-2024\FileIOOperations\BinarySerializationExample\bin\Debug\BinarySerializationExample.exe
+C:\DotNet-Jun-2024\FileIOOperations\BinarySerializationExample\bin\Debug\BinarySerializationExample.pdb
+C:\DotNet-Jun-2024\FileIOOperations\BinarySerializationExample\obj\Debug\BinarySerializationExample.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\FileIOOperations\BinarySerializationExample\obj\Debug\BinarySerializationExample.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\FileIOOperations\BinarySerializationExample\obj\Debug\BinarySerializationExample.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\FileIOOperations\BinarySerializationExample\obj\Debug\BinarySerializationExample.exe
+C:\DotNet-Jun-2024\FileIOOperations\BinarySerializationExample\obj\Debug\BinarySerializationExample.pdb

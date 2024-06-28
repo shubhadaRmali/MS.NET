@@ -1,0 +1,7 @@
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\project4\bin\Debug\project4.exe.config
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\project4\bin\Debug\project4.exe
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\project4\bin\Debug\project4.pdb
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\project4\obj\Debug\project4.csproj.AssemblyReference.cache
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\project4\obj\Debug\project4.csproj.CoreCompileInputs.cache
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\project4\obj\Debug\project4.exe
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\project4\obj\Debug\project4.pdb

@@ -1,0 +1,7 @@
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\listExpConsoleApp\bin\Debug\listExpConsoleApp.exe.config
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\listExpConsoleApp\bin\Debug\listExpConsoleApp.exe
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\listExpConsoleApp\bin\Debug\listExpConsoleApp.pdb
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\listExpConsoleApp\obj\Debug\listExpConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\listExpConsoleApp\obj\Debug\listExpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\listExpConsoleApp\obj\Debug\listExpConsoleApp.exe
+C:\Users\Group009\Desktop\MS.netAssignments\xmlExamples\listExpConsoleApp\obj\Debug\listExpConsoleApp.pdb

@@ -1,0 +1,8 @@
+C:\DotNet-Jun-2024\GenericCollections\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+C:\DotNet-Jun-2024\GenericCollections\DictionaryExample\bin\Debug\DictionaryExample.exe
+C:\DotNet-Jun-2024\GenericCollections\DictionaryExample\bin\Debug\DictionaryExample.pdb
+C:\DotNet-Jun-2024\GenericCollections\DictionaryExample\obj\Debug\DictionaryExample.csproj.AssemblyReference.cache
+C:\DotNet-Jun-2024\GenericCollections\DictionaryExample\obj\Debug\DictionaryExample.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Jun-2024\GenericCollections\DictionaryExample\obj\Debug\DictionaryExample.csproj.CoreCompileInputs.cache
+C:\DotNet-Jun-2024\GenericCollections\DictionaryExample\obj\Debug\DictionaryExample.exe
+C:\DotNet-Jun-2024\GenericCollections\DictionaryExample\obj\Debug\DictionaryExample.pdb

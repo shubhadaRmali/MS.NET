@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5C0EDB9D-9FFF-4D47-856C-60E0DBF34CE7}</ProjectGuid>
+    <ProjectGuid>{E07F9123-5445-4734-B665-C5C837FC198B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ListExample</RootNamespace>
-    <AssemblyName>ListExample</AssemblyName>
+    <RootNamespace>GenerateXmlDocument</RootNamespace>
+    <AssemblyName>GenerateXmlDocument</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Customer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Result.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

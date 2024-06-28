@@ -22,7 +22,7 @@ namespace DisconnectedExamples
         DataSet DS;
         private void Form1_Load(object sender, EventArgs e)
         {
-            CN = new MySqlConnection("Data Source=192.168.100.80;PORT=3306;Database=Jun2024CDAC;User Id=saleel;Password=saleel;");
+            CN = new MySqlConnection("Data Source=192.168.100.80;PORT=3306;Database=group009;User Id=group009;Password=welcome;");
             DA = new MySqlDataAdapter("Select * from Customers", CN);
             DS = new DataSet();
             DA.Fill(DS, "Customers");

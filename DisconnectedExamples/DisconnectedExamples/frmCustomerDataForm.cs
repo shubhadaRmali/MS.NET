@@ -24,7 +24,7 @@ namespace DisconnectedExamples
         int currentIndex = 0;
         private void frmCustomerDataForm_Load(object sender, EventArgs e)
         {
-            CN = new MySqlConnection("Data Source=192.168.100.80;PORT=3306;Database=Jun2024CDAC;User Id=saleel;Password=saleel;");
+            CN = new MySqlConnection("Data Source=192.168.100.80;PORT=3306;Database=group009;User Id=group009;Password=welcome;");
             DA = new MySqlDataAdapter("Select * from Customers", CN);
             CMD_BLD = new MySqlCommandBuilder(DA);
             DS = new DataSet();
@@ -78,12 +78,12 @@ namespace DisconnectedExamples
             txtCity.Text = string.Empty;
             txtCustomerId.Focus();
         }
-
+ 
         private void btnSave_Click(object sender, EventArgs e)
         {
             DataRow row = DS.Tables[0].NewRow();
-            row["CustomerId"]=txtCustomerId.Text;
-            row["ContactName"] = txtContactName.Text;
+            row["CustomerId"] =Convert.ToInt32(txtCustomerId.Text);
+            row["CustomerName"] = txtContactName.Text;
             row["City"] = txtCity.Text;
             DS.Tables[0].Rows.Add(row);//Modify the data table
             DA.Update(DS.Tables[0]);//Update your database
@@ -93,6 +93,11 @@ namespace DisconnectedExamples
         {
             DS.Tables[0].Rows[currentIndex].Delete();
             DA.Update(DS.Tables[0]);
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

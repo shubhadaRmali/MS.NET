@@ -1,0 +1,151 @@
+What is an object?
+	Collection of Properties, Methods and Events
+
+4-Major Pillars of OOP
+
+1) Abstraction
+	Class is a template for an object
+		1) Create new instance [Instance Members]
+			Class1 obj=new Class1();
+		2) By Extending [Inherited Members]
+			Class1 extends Person{...}
+2) Encapsulation - Hiding
+	Access Modifiers [Private, Public, Protected, Internal, Protected Internal, Private Internal]
+
+3) Inheritance - [Reuasability]
+	Generalization to Specialization
+	Types - 
+		Single, Multiple, Multi-Level, Hierachy, Hybrid
+4) Polymorphism
+	Overloading, Compile Time, Static Binding, Early Binding
+	Overriding, Runtime, Dynamic, Late Binding
+
+interface IPhysics{
+	physicsCalculation();
+}
+
+interface IChemistry{
+	chemistryCalculation();
+}
+interface IDeparementHod extends IPhys, IChem, IBiology{
+	
+}
+interface IPhysics{
+	physicsCalculation();
+}
+
+
+class Science implements IPhy, IChem, IBio{
+	physicsCalculation(){...}
+	biologyCalculation(){...}
+	chemistryCalculation(){...}
+}
+
+IPhysics phyHod = new Science();
+cheHod = new Science();
+bioHod = new Science();
+IDepartmentHod scienceHod = new Science();
+
+Different types of classes - 
+
+1) Abstract class
+2) Concret class
+3) Sealed/Final Class
+4) Partial Class
+5) Anonymous class
+6) Static Class
+
+static class Data{
+	public static nt Counter {get;set;}
+}
+
+Data.Counter++
+
+Overloading - 
+class Math {
+	int Addition(int i, int j)
+	int Addition(double i, double j)
+	string Addition(string i, string j, string k)
+	//double Addition(double i, double j) - Not overloaded
+}
+
+class AdvanceMath : Math {
+	int Addition(int i, int j, int k)
+
+}
+
+Overriding - 
+
+class Math{
+	virtual int Addition(int i, int j) { return i + j; }
+}
+
+class AdvanceMath : Math {
+	override int Addition(int i, int j) { return i + j + 1000; }
+
+}
+
+Math m1=new Math();
+m1.Addition(1000,2000); //3000
+
+AdvanceMath m1=new AdvanceMath();
+m1.Addition(1000,2000); //4000
+
+Math m1=new AdvanceMath();
+m1.Addition(1000,2000); //4000
+
+Exmample - InfowayInterviewApp
+
+C# Every type is extended from a super base class - Object
+
+Different Types of Parameters to a function - 
+
+1) Input [Default]
+2) Out 
+3) Ref
+4) Params
+
+Different Types constructor
+
+1) Default
+2) Parameterized
+3) Copy
+4) Static
+
+
+Data - 
+Where can I keep the data?
+
+1) In-Memory
+	Varaibles, 
+	Collections - [Non-Generic/Generic(Prefered)]
+		Array, 
+			1D, 2D, Jagged Array
+		Non-Generic Collections [System.Collections]
+			ArrayList
+			Stack
+			Queue
+			Hashtable
+		Generic Collection [T=Type] [System.Collections.Generic]
+			List<T>
+			Stack<T>
+			Queue<T>
+			Dictionary<TKey,TValue>
+
+2) File System
+3) Data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

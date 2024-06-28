@@ -132,13 +132,60 @@ Where can I keep the data?
 			Queue<T>
 			Dictionary<TKey,TValue>
 
-2) File System
+2) File System - System.IO
+	1) DriveInfo
+	2) DirectoryInfo
+	3) FileInfo
+	4) File [Static]
+	5) StreamWriter
+	6) StreamReader
+	7) FileStream
+
+Serialization/Deserilalization
+	Binary [.dat], Xml, Json, SOAP - Simple Object Access Protocol [Web Service]
+
 3) Data
 
 
+-------------------- Language Integrated Query
+
+select */col1,col2 ... from <Table_Name>
+where condition
+group by ...
+order by ...;
+
+JOIN
+
+1) Select * from Table_Name;
+from variable_name in collection
+select variable_name;
+
+2) Select * from Table_Name where condition;
+from variable_name in collection
+where variable_name.property="condition"
+select variable_name;
 
 
+3) Select City, Count(*) from Table_Name Group By City;
+from variable_name in collection
+group variable_name by variable_name.City into Group_Variable
+select new {City=Group_Variable.Key, Count=Group_Variable.Count(), Total=Group_Variable.Sum()};
 
+4) Select * from Table_Name order by col_name desc;
+from variable_name in collection
+orderby variable_name.property_name descending, variable_name.property_name
+select variable_name;
+
+
+Use XLINQ to generte the Xml document - 
+
+<Customers>
+	<Customer CustomerId="18822" ContactName="Alisha C." City="Mumbai">
+		<Orders>
+			<Order OrderId="100" OrderDate="..." Quantity="10"
+		</Orders>
+	</Customer>
+</Customers>
 
 
 
